@@ -12,7 +12,7 @@ React.js
 Material UI
 
 # Clone the repository
-[https://github.com/yourusername/your-repository.git](https://github.com/shahithabanu/react-design.git)
+https://github.com/shahithabanu/react-design.git
 
 # Navigate to the project folder
 cd react-design
